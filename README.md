@@ -1,5 +1,5 @@
 >(Read through & added Github emojis from the little "Github Flavored Markdown" folded card Hawx brought home from SWHacks...
->Didn't imagine they'd already be so useful & fun so soon! mueeeeheeeheeheeee..... :octocat: :octocat: ) 
+>Didn't imagine they'd be so useful & fun so soon! mueeeeheeeheeheeee..... :octocat: :octocat: ) 
 
 CS50 2017 Week 1:
 
