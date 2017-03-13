@@ -11,13 +11,12 @@ int main(void)
 {
     printf("Minutes: ");
     int x = get_int();
-    
     if (x>=1)
     {
         printf("Bottles: %d\n", x*12);
     }
     else
     {
-        printf("Retry: Enter a positive integer larger than 0 for results in Bottles\n");
+        printf("Try again with a positive integer larger than 0.\n");
     }
 }
