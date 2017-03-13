@@ -6,7 +6,7 @@ CS50 2017 Week 1:
   *Cath's Murmurs: 
   (^ This assignment's requirements brought me here (on Github! :octocat: :metal: )... ;D :+1: )
   This part was more about setting up Github than making hello.c work.
-  And here I am! :D *cheers* 
+  And here I am! :D :tada:  
   
 :sparkles: Water.c; 
   http://docs.cs50.net/problems/water/water.html
