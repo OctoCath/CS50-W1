@@ -1,2 +1,4 @@
-# c50-w1
-CS50 Week 1 water.c
+CS50 Week 1
+-Hello.c
+-Water.c
+-(Check later)
