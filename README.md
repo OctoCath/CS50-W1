@@ -20,6 +20,6 @@ CS50 2017 Week 1:
   printf("Try again with a positive integer larger than 0.\n");
   
   *I'm happy to say that though my husby HawxChen did make some commits in this repository, 
-  I insisted on doing it my way (thinking it through, struggling, but in the end enjoying the process.)
+  I insisted on doing it my way (thinking it through, struggling, and finding myself enjoying the process with appreciation in the end.)
   
   Stay tuned as I tackle the next one......! :rocket: 
