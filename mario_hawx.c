@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(void) {
     int d;
-    printf("Height: ");
     do {
+        printf("Height: ");
         scanf("%d", &d);
-    } while(d <= 0 && d > 23);
+    } while(d <= 0 ||  d > 23);
     if(d == 1) puts("##");
 
     int len = d+1;
