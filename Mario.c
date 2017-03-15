@@ -24,6 +24,7 @@ int main(void)
 //Stuck for the whole day (3/14) trying to figure out Mario's side pyramid.
 //Need to clarify:
 //how do I name a variable & use it, define it, with proper C syntax?
-//I can already print 2 vertical lines of ## by user defined height but need to figure out: 
+//I can already print 2 vertical lines of ## by user defined height 
+//(the printf . part tracks what I intend to do next so I remember this clue) but need to figure out: 
 //how to control horizontal lines' # and spaces in descending -1 patterns ?
 //how to print spaces?
