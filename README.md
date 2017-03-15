@@ -3,7 +3,7 @@
 
 CS50 2017 Week 1:
 
-:sparkles: Hello.c;
+:sparkles: 1) Hello.c;
   http://docs.cs50.net/problems/hello/hello.html
   
   *Cath's Murmurs: 
@@ -11,7 +11,7 @@ CS50 2017 Week 1:
   This part was more about setting up Github than making hello.c work.
   And here I am! :D :tada:  
   
-:sparkles: Water.c; 
+:sparkles: 2) Water.c; 
   http://docs.cs50.net/problems/water/water.html
   
   *Cath's Murmurs:
@@ -25,4 +25,10 @@ CS50 2017 Week 1:
   I'm happy to say that though my husby HawxChen did make some commits in this repository, 
   I insisted on doing it my way (thinking it through, struggling, and finding myself enjoying the process with appreciation in the end.)
   
-  Stay tuned as I tackle the next one......! :rocket: 
+ :sparkles: 3) Mario.c; 
+  http://docs.cs50.net/problems/mario/less/mario.html
+  
+  *Cath's Murmurs: 
+  Stuck.....but not giving up!!!
+  
+  Stay tuned while I tackle the exercises......! :rocket: 
