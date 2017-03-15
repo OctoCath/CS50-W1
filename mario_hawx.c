@@ -5,7 +5,10 @@ int main(void) {
         printf("Height: ");
         scanf("%d", &d);
     } while(d <= 0 ||  d > 23);
-    if(d == 1) puts("##");
+    if(d == 1) {
+        puts("##");
+        return 0;
+    }
 
     int len = d+1;
 
