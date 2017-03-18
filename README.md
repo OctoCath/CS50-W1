@@ -34,5 +34,6 @@ CS50 2017 Week 1:
 But hey, I bet these feelings are normal for such a newbie like me. ;D Keep at it! - :rocket: 
 
  :sparkles: 4) Greedy.c; 
+ http://docs.cs50.net/problems/greedy/greedy.html 
  
- loading...
+ Struggling in progress.. ;D 
