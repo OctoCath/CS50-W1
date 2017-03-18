@@ -1,21 +1,21 @@
 #include <stdio.h>
-#include <cs50.h>                       
+#include <cs50.h>
 
 int main(void) {
 
-    int h = 0;                          
-    int rowpt;                          
-    do {                                
+    int h = 0;
+    int rowpt;
+    do { 
         printf("Height: ");
         h = get_int();
-       } while(h <= 0 || h > 23); 
+       } while(h <= 0 || h > 23);
     
         if(h == 1)  
             {printf("##\n");} 
         else {
              int rsum = h+1; 
             
-        for(rowpt = 0; rowpt < h; rowpt++)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+        for(rowpt = 0; rowpt < h; rowpt++) 
         {
             for(int dpt=0; dpt < rsum; dpt++)
             {
