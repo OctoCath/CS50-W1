@@ -50,3 +50,4 @@ Together, line 18+20 makes a "coordinate" (r0,d0) -- (r0,d1) -- (r0,d2) scan.
 -2 is taking out the constant (##) in each row; so printing focuses on new gridcoords for #/" " changes
 23 - the if-else here will determine the writing of # or space in the grid.
 25 - part of the outer for loop; prints a new row line continuously as required.
+*/
