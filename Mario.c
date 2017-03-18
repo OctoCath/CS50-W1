@@ -8,7 +8,7 @@ int main(void) {
     do { 
         printf("Height: ");
         h = get_int();
-       } while(h <= 0 || h > 23);
+       } while(h < 0 || h > 23);
     
         if(h == 1)  
             {printf("##\n");} 
