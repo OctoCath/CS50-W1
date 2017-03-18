@@ -29,6 +29,10 @@ CS50 2017 Week 1:
   http://docs.cs50.net/problems/mario/less/mario.html
   
   *Cath's Murmurs: 
-  Stuck.....but not giving up!!!
+  This was a super tough exercise that helped me pick up some good habits. I started making line by line comments to help me stay on track of understanding what I was doing, which was crucial in getting through this exercise. I think I'm becoming more familiar on how to utilize variables and defining them as I use them--now familiar with the command line controls too. I picked up important concepts such as how to conceptualize this exercise (grid system--r0,d0), using nested for loops (and grasping how they work). I definitely used Hawx's help and explanation for this exercise, since my math/logic memories and skills have been dormant for quite a while and I wasn't really grasping the hints in the walkthrough videos.
   
-  Stay tuned while I tackle the exercises......! :rocket: 
+But hey, I bet these feelings are normal for such a newbie like me. ;D Keep at it! - :rocket: 
+
+ :sparkles: 4) Greedy.c; 
+ 
+ loading...
